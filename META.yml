@@ -20,6 +20,7 @@ no_index:
     - t
 requires:
   Hash::Merge: 0
+  ok: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.002
+version: 0.003
