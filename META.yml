@@ -1,5 +1,5 @@
 ---
-abstract: 'Return difference between to hashes as a hash'
+abstract: 'Return difference between two hashes as a hash'
 author:
   - 'Bjorn-Olav Strand <bo@startsiden.no>'
 build_requires:
@@ -23,4 +23,4 @@ requires:
   ok: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.004
+version: 0.005
