@@ -2,13 +2,15 @@
 abstract: 'Return difference between two hashes as a hash'
 author:
   - 'Bjorn-Olav Strand <bo@startsiden.no>'
+  - 'Bjorn-Olav Strand <bo@startsiden.no>'
 build_requires:
-  ExtUtils::MakeMaker: 6.42
+  ExtUtils::MakeMaker: 6.36
   Test::More: 0
 configure_requires:
-  ExtUtils::MakeMaker: 6.42
+  ExtUtils::MakeMaker: 6.36
 distribution_type: module
-generated_by: 'Module::Install version 0.92'
+dynamic_config: 1
+generated_by: 'Module::Install version 1.06'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -23,4 +25,4 @@ requires:
   ok: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.005
+version: 0.006
